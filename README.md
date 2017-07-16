@@ -28,8 +28,8 @@
 
 ## 製作者情報
 
-* 製作者名 : Takosuke
-* 連絡先   : @takosuke_tw
+- 製作者名 : Takosuke
+- 連絡先   : [@takosuke_tw](https://twitter.com/takosuke_tw)
 
 
 
