@@ -26,6 +26,11 @@
 予告なく、モデルデータの公開の停止、  
 モデルデータ利用の禁止等の処理を行わせていただきます。
 
+## ダウンロード
+
+zipファイルは[Wiki](https://github.com/TakosukeGH/mmd_models/wiki)から
+ダウンロード可能です。
+
 ## 製作者情報
 
 - 製作者名 : Takosuke
