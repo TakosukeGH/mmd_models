@@ -31,6 +31,34 @@
 zipファイルは[Wiki](https://github.com/TakosukeGH/mmd_models/wiki)から
 ダウンロード可能です。
 
+## リンク一覧
+
+- 個人HP : <http://takosukegh.github.io/>
+- twitter : <https://twitter.com/takosuke_tw>
+- ニコニコ : <http://seiga.nicovideo.jp/user/illust/6106789>
+- 質問箱 : <http://odaibako.net/u/takosuke_tw>
+
+## 作成予定の楽器
+
+- タンボリカ
+- ハモンドオルガン
+
+## その他のMMDモデルダウンロードリンク
+
+- クラベス : <http://seiga.nicovideo.jp/seiga/im5104788>
+- カバサ : <http://seiga.nicovideo.jp/seiga/im5113210>
+- ツリーチャイム : <http://seiga.nicovideo.jp/seiga/im5114092>
+- クロテイル : <http://seiga.nicovideo.jp/seiga/im5120046>
+- ショカーリョ : <http://seiga.nicovideo.jp/seiga/im5154555
+- タンバリン : <http://seiga.nicovideo.jp/seiga/im5238960>
+- バウロン : <http://seiga.nicovideo.jp/seiga/im5239297>
+- スタンド : <http://seiga.nicovideo.jp/seiga/im5243439>
+- シロフォン : <http://seiga.nicovideo.jp/seiga/im5255505>
+- グロッケンシュピール : <http://seiga.nicovideo.jp/seiga/im5260862>
+- ヴィブラフォン : <http://seiga.nicovideo.jp/seiga/im5289536>
+- マレット : <http://seiga.nicovideo.jp/seiga/im5663471>
+- パーカッションセット : <http://seiga.nicovideo.jp/seiga/im5643433>
+
 ## 製作者情報
 
 - 製作者名 : Takosuke
