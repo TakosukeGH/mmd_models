@@ -1,4 +1,5 @@
 blend/
 old/
+reference/
 *.bat
 zip.py
