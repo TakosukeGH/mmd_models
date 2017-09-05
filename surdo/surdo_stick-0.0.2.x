@@ -5458,7 +5458,7 @@ Mesh {
    1.000000;1.000000;1.000000;;
 
    TextureFilename {
-    "textures\\\\handle.png*textures\\\\black2.png";
+    "textures\\\\handle.png*textures\\\\black2.spa";
    }
   }
 
@@ -5469,14 +5469,14 @@ Mesh {
    1.000000;1.000000;1.000000;;
 
    TextureFilename {
-    "textures\\\\black2.png";
+    "textures\\\\black2.sph";
    }
   }
 
   Material {
    1.000000;1.000000;1.000000;1.000000;;
    30.000000;
-   0.000000;0.000000;0.000000;;
+   1.000000;1.000000;1.000000;;
    1.000000;1.000000;1.000000;;
 
    TextureFilename {

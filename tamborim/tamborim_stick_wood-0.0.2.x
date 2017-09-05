@@ -3076,7 +3076,7 @@ Mesh {
    1.000000;1.000000;1.000000;;
 
    TextureFilename {
-    "textures\\\\stick.png*textures\\\\black2.png";
+    "textures\\\\stick.png*textures\\\\black2.spa";
    }
   }
  }
