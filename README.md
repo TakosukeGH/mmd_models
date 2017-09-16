@@ -1,5 +1,7 @@
 # MMD Models
 
+![takosuke_musical_instruments.png](takosuke_musical_instruments.png)
+
 ## はじめに
 
 このリポジトリは、Takosukeが制作したMMDモデルが保管されています。  
