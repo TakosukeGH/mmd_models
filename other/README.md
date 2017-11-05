@@ -1,4 +1,4 @@
-# MMD CC0
+# MMD CC NC
 
 ## はじめに
 
