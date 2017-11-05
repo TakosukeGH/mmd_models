@@ -9,11 +9,11 @@
 
 ### trash box
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />このモデルは<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">クリエイティブ・コモンズ 表示 - 非営利 4.0 国際 ライセンス</a>の下に提供されています。
+![trash_box](trash_box_sample.png)  
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />このモデルは<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">クリエイティブ・コモンズ 表示 - 非営利 4.0 国際 ライセンス</a>の下に提供されています。  
 
-
-その他のモデルについては、下記のリポジトリ直下のREADMEを必ず読んだうえでご使用下さい。
+その他のモデルについては、下記のリポジトリ直下のREADMEを必ず読んだうえでご使用下さい。  
 
 - <https://github.com/TakosukeGH/mmd_models/>
 
