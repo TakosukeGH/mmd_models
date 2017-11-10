@@ -44,7 +44,7 @@ zipファイルは[Wiki](https://github.com/TakosukeGH/mmd_models/wiki)から
 
 ## リンク一覧
 
-- 個人HP : <http://takosukegh.github.io/>
+- 個人HP : http://takosukegh.github.io/(移転作業中)
 - twitter : <https://twitter.com/takosuke_tw>
 - ニコニコ : <http://seiga.nicovideo.jp/user/illust/6106789>
 - 質問箱 : <http://odaibako.net/u/takosuke_tw>
