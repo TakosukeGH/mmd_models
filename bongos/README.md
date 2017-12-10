@@ -17,6 +17,12 @@
 
 <http://d.hatena.ne.jp/CaptainNoFuture/20101017/1287282078>
 
+## ダウンロード
+
+zipファイルのダウンロードはこちらから。
+
+- <https://github.com/TakosukeGH/mmd_models/wiki>
+
 ## 使用ツール
 
 | 名前         | Ver. |
